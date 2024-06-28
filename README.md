@@ -17,7 +17,7 @@ More details for the use of code will be coming up soon.
     <img src="https://github.com/WangXinglin/FSC/assets/54845942/49a6e53f-6293-4ef5-a022-06a414b94465" width="700">
     <img src="https://github.com/WangXinglin/FSC/assets/54845942/20227bdb-175a-4375-9532-2296883e200f" width="700">
     <img src="https://github.com/WangXinglin/FSC/assets/54845942/585abc16-c45e-493a-a3a4-24f3717ef37e" width="350">
-    <img src="https://github.com/WangXinglin/FSC/assets/54845942/d60951f9-59f3-4934-9946-3abf13af5eac" width="350">
+    <img src="https://github.com/WangXinglin/FSC/assets/54845942/0e6def5a-fa95-43fc-a6a2-9b02db796255" width="350">
     <img src="https://github.com/WangXinglin/FSC/assets/54845942/c2a787cc-4dfe-4ea9-a9e9-06951beca55e" width="700">
 </div>
 
