@@ -1,8 +1,8 @@
 # Integrate the Essence and Eliminate the Dross: Fine-Grained Self-Consistency for Free-Form Language Generation [ACL2024 Main]
 
 <div align="center">
-    <img src="https://github.com/WangXinglin/FSC/assets/54845942/32fe2dd3-bf77-422e-841a-11b40ae0f5ff" width="700">
-    <img src="https://github.com/WangXinglin/FSC/assets/54845942/0f59b321-9317-407a-895a-48b736b3ee92" width="700">
+    <img src="https://github.com/WangXinglin/FSC/assets/54845942/fdba812b-4722-44fd-b195-e6d181a8465f" width="700">
+    <img src="https://github.com/WangXinglin/FSC/assets/54845942/17289605-b543-4b2f-9872-ca976c864bc9" width="700">
 </div>
 
 
@@ -14,9 +14,10 @@ More details for the use of code will be coming up soon.
 ## Results
 
 <div align="center">
-    <img src="https://github.com/WangXinglin/FSC/assets/54845942/6eb908dc-8d07-4371-842f-76e31893e32b" width="700">
-    <img src="https://github.com/WangXinglin/FSC/assets/54845942/aaaab8ad-91dd-486f-814d-81c4d6d0b6a7" width="700">
-    <img src="https://github.com/WangXinglin/FSC/assets/54845942/2fe66c5c-757a-4a4c-94d4-1b7a6c99e00c" width="350">
-    <img src="https://github.com/WangXinglin/FSC/assets/54845942/5f688c10-97f6-42c1-8cd1-75cd1f713030" width="700">
+    <img src="https://github.com/WangXinglin/FSC/assets/54845942/49a6e53f-6293-4ef5-a022-06a414b94465" width="700">
+    <img src="https://github.com/WangXinglin/FSC/assets/54845942/20227bdb-175a-4375-9532-2296883e200f" width="700">
+    <img src="https://github.com/WangXinglin/FSC/assets/54845942/585abc16-c45e-493a-a3a4-24f3717ef37e" width="350">
+    <img src="https://github.com/WangXinglin/FSC/assets/54845942/d60951f9-59f3-4934-9946-3abf13af5eac" width="350">
+    <img src="https://github.com/WangXinglin/FSC/assets/54845942/c2a787cc-4dfe-4ea9-a9e9-06951beca55e" width="700">
 </div>
 
