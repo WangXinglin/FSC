@@ -21,3 +21,6 @@ More details for the use of code will be coming up soon.
     <img src="https://github.com/WangXinglin/FSC/assets/54845942/c2a787cc-4dfe-4ea9-a9e9-06951beca55e" width="700">
 </div>
 
+
+## Paper link
+https://www.arxiv.org/abs/2407.02056
